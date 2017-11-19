@@ -1,0 +1,14 @@
+{
+  "name": "nightwatchautomation",
+  "version": "1.0.0",
+  "description": "example tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Ravi Yadav",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^2.33.2"
+  }
+}

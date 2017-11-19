@@ -1,0 +1,1 @@
+//global variables for all environments
